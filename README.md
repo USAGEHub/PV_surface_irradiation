@@ -1,8 +1,3 @@
-
-[[_TOC_]]
-
---------------------------------------------------------------------------------------------------------
-
 # Description
 The tool determines the average irradiation value per roof part.
 
