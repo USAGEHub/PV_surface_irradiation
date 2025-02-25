@@ -3,7 +3,7 @@ The tool determines the average irradiation value for each suitable surface (roo
 
 # Input data requirements
 
-* Suitable surfaces (such as segmented roof parts, parking lots, etc
+* Suitable surfaces (such as segmented roof parts, parking lots, etc)
 * Raster irradiation map 
 
 # Output data requirements
